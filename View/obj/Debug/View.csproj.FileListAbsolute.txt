@@ -1,0 +1,14 @@
+D:\Programowanie\HackathonProject\View\bin\Debug\View.exe.config
+D:\Programowanie\HackathonProject\View\bin\Debug\View.exe
+D:\Programowanie\HackathonProject\View\bin\Debug\View.pdb
+D:\Programowanie\HackathonProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\Programowanie\HackathonProject\View\obj\Debug\MainWindow.g.cs
+D:\Programowanie\HackathonProject\View\obj\Debug\App.g.cs
+D:\Programowanie\HackathonProject\View\obj\Debug\View_MarkupCompile.cache
+D:\Programowanie\HackathonProject\View\obj\Debug\View_MarkupCompile.lref
+D:\Programowanie\HackathonProject\View\obj\Debug\MainWindow.baml
+D:\Programowanie\HackathonProject\View\obj\Debug\View.g.resources
+D:\Programowanie\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
+D:\Programowanie\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\Programowanie\HackathonProject\View\obj\Debug\View.exe
+D:\Programowanie\HackathonProject\View\obj\Debug\View.pdb

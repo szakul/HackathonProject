@@ -1,0 +1,10 @@
+D:\Programowanie\WpfApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Programowanie\WpfApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Programowanie\WpfApplication1\ClassLibrary1\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Programowanie\WpfApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Programowanie\WpfApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Programowanie\HackathonProject\Model\bin\Debug\ClassLibrary1.dll
+D:\Programowanie\HackathonProject\Model\bin\Debug\ClassLibrary1.pdb
+D:\Programowanie\HackathonProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Programowanie\HackathonProject\Model\obj\Debug\ClassLibrary1.dll
+D:\Programowanie\HackathonProject\Model\obj\Debug\ClassLibrary1.pdb
