@@ -34,3 +34,5 @@ C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.
 C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.g.resources
 C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
 C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\Stand.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\Stand.baml
