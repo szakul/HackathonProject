@@ -12,3 +12,17 @@ D:\Programowanie\HackathonProject\View\obj\Debug\View.Properties.Resources.resou
 D:\Programowanie\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
 D:\Programowanie\HackathonProject\View\obj\Debug\View.exe
 D:\Programowanie\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\bin\Debug\View.exe.config
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.exe
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\bin\Debug\View.exe
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\bin\Debug\View.pdb
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.g.cs
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\App.g.cs
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.baml
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.g.resources
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Pszczolka\Source\Repos\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
