@@ -8,3 +8,17 @@ D:\Programowanie\HackathonProject\Model\bin\Debug\ClassLibrary1.pdb
 D:\Programowanie\HackathonProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 D:\Programowanie\HackathonProject\Model\obj\Debug\ClassLibrary1.dll
 D:\Programowanie\HackathonProject\Model\obj\Debug\ClassLibrary1.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\ClassLibrary1.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\ClassLibrary1.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\EntityFramework.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\EntityFramework.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\obj\Debug\ClassLibrary1.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\Model\obj\Debug\ClassLibrary1.pdb

@@ -12,3 +12,25 @@ D:\Programowanie\HackathonProject\View\obj\Debug\View.Properties.Resources.resou
 D:\Programowanie\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
 D:\Programowanie\HackathonProject\View\obj\Debug\View.exe
 D:\Programowanie\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.exe.config
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.exe
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.exe
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\App.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.baml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.g.resources
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
